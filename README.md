@@ -10,7 +10,9 @@ to do API requests. plus i also added voice to the ai with espeak
 - **`espeak` installed**
 
 ## Usage
-replace the GEMINI_API_KEY with you API key and run the main.py with
+replace the GEMINI_API_KEY with you API key.
+
+And run the main.py with
 ```python
 python main.py
 ```
